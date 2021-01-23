@@ -8,6 +8,7 @@ import org.testng.annotations.Test;
 import com.relevantcodes.extentreports.DisplayOrder;
 import com.relevantcodes.extentreports.ExtentReports;
 
+//This is a comment in Extent Manager
 public class ExtentManager {
 	
 	@Test
