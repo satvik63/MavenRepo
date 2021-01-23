@@ -12,7 +12,7 @@ import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
 
 //This is class Demo
-//This is a second comment
+
 public class Demo {
 	
 	ExtentReports eRep;
